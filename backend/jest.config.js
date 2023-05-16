@@ -10,7 +10,7 @@ module.exports = {
   coverageReporters: ['lcov', 'text'],
   coverageThreshold: {
     global: {
-      // Set your desired coverage thresholds here
+      // Setting the desired coverage thresholds here
       statements: 80,
       branches: 80,
       functions: 80,
